@@ -1,4 +1,4 @@
-import React, {Component,useMemo} from 'react';
+import React, {Component} from 'react';
 import { Button, Table, Input, Label } from 'reactstrap';
 import { Link } from 'react-router-dom';
 
